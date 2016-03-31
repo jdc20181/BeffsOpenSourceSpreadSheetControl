@@ -1,2 +1,9 @@
 # OpenSourceSpreadSheetControl
-Let's face it, spreadsheets are needed and for those who don't have MS office can't use excel, and other options cost in the thousands! This project is open source!
+
+Specially designed for VB.net, Open Source! 
+Licensed under the MIT license, which will allow you to use in your commercial applications. 
+
+You can read the WIKI for getting started tips and guides to get going!
+
+
+
