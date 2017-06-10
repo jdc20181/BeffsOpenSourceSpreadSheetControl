@@ -1,5 +1,7 @@
 # OpenSourceSpreadSheetControl
 
+**Production was Discontinued, Don't expect anything more**
+
 Specially designed for VB.net, Open Source! 
 Licensed under the MIT license, which will allow you to use in your commercial applications. 
 
